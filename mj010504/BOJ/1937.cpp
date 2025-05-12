@@ -14,7 +14,7 @@ int n;
 vector<vector<int>> v(500, vector<int> (500));
 vector<vector<int>> cv(500, vector<int> (500, -1)); // 시작점일 때 가능한 최대 방문 수
 
-int movePanda(int x, int y, int value, vector<vector<int>>& cv) {
+int movePanda(int x, int y, int value) {
     bool canMove = false;
       for(int d = 0; d < 4; d++) {
             int xx = x + dx[d];
