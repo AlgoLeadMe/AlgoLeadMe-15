@@ -2,5 +2,7 @@
  
  | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
  |:----:|:---------:|:----:|:-----:|:----:|
- | 1차시 | 2025.03.18 |  이분 탐색  | [케이크 자르기](https://www.acmicpc.net/problem/17179)|https://github.com/AlgoLeadMe/AlgoLeadMe-13/pull/3|
+ | 1차시 | 2025.05.02 |  구현  | [평범한 배낭](https://www.acmicpc.net/problem/12865)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/4|
+ | 2차시 | 2025.05.05 |  구현  | [벌집](https://www.acmicpc.net/problem/2292)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/9|
+ | 3차시 | 2025.05.07 |  구현  | [영화감독 숌](https://www.acmicpc.net/problem/1436)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/10|
  ---
