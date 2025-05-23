@@ -9,9 +9,8 @@ int main(){
     d[1] = 1;
     d[2] = 3;
     for(int i=3;i<=n;i++){
-        d[i] = d[i-2] * 2 + d[i-1];
+        d[i] = (d[i-2] * 2 + d[i-1])% 10007;
     }
-    for(int i=3;i<=n;i++){
-        cout<<d[i]<<" ";
-    }
+    int res = d[n];
+    cout<<res;
 } 
