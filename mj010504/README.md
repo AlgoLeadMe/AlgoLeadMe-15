@@ -6,4 +6,4 @@
  | 2차시 | 2025.05.01 |  DFS | [컴백홈](https://www.acmicpc.net/problem/1189)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/6)|
  | 3차시 | 2025.05.01 |  DP  | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/12)|
  | 4차시 | 2025.05.20 |  그리디  | [A와B](https://www.acmicpc.net/problem/12904)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/16)|
- | 5차시 | 2025.05.20 |  Union-FInd  | [친구 네트워](https://www.acmicpc.net/problem/4195)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/23)|
+ | 5차시 | 2025.05.20 |  Union-FInd  | [친구 네트워크](https://www.acmicpc.net/problem/4195)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/23)|
