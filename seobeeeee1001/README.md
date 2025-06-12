@@ -6,3 +6,5 @@
  | 2차시 | 2025.05.06 |  구현  | [테트로미노](https://www.acmicpc.net/problem/14500)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/7|
  | 3차시 | 2025.05.12 |  DP  | [1로 만들기2](https://www.acmicpc.net/problem/12852)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/13|
  ---
+ | 5차시 | 2025.05.12 | DP | [2×n 타일링 2](https://www.acmicpc.net/problem/11727)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/22|
+ | 6차시 | 2025.06.12 | DP | [이친수](https://www.acmicpc.net/problem/2193)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/33|d
