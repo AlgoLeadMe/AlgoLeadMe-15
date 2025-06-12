@@ -58,6 +58,7 @@ int main() {
     return 0;
 }
 
+
 #include <string>
 #include <algorithm>
 using namespace std;
@@ -86,4 +87,3 @@ int main() {
     cout << max(maxCount, hyeokBiniSets) << endl;
 
     return 0;
-}
