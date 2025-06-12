@@ -8,3 +8,4 @@
  | 4차시 | 2025.05.12 | DP | [정수 삼각형](https://www.acmicpc.net/problem/1932)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/17|
  | 5차시 | 2025.05.12 | DP | [2×n 타일링 2](https://www.acmicpc.net/problem/11727)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/22|
  | 6차시 | 2025.06.12 | DP | [이친수](https://www.acmicpc.net/problem/2193)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/33|d
+ ---

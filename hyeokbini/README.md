@@ -6,4 +6,6 @@
  | 2차시 | 2025.05.02 |  구현, 백트래킹  | [감소하는 수](https://www.acmicpc.net/problem/1038)|[#2](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/5)|
  | 3차시 | 2025.05.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#3](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/8)|
  | 4차시 | 2025.05.11 |  스택, 자료구조  | [오큰수](https://www.acmicpc.net/problem/17298)|[#4](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/11)|
+ | 5차시 | 2025.05.14 |  구현  | [주사위 쌓기](https://www.acmicpc.net/problem/2116)|[#5](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/14)|
+ | 6차시 | 2025.05.20 |  기하학  | [벽록의 가면](https://www.acmicpc.net/problem/31851)|[#6](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/15)|
  ---
