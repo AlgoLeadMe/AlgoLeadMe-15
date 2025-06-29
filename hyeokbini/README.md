@@ -9,4 +9,5 @@
  | 5차시 | 2025.05.14 |  구현  | [주사위 쌓기](https://www.acmicpc.net/problem/2116)|[#5](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/14)|
  | 6차시 | 2025.05.20 |  기하학  | [벽록의 가면](https://www.acmicpc.net/problem/31851)|[#6](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/15)|
  | 7차시 | 2025.05.25 |  DFS  | [체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)|[#7](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/24)|
+ | 9차시 | 2025.06.29 |  기하학  | [화살을 쏘자!](https://www.acmicpc.net/problem/20157)|[#9](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/36)|
  ---
