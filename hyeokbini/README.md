@@ -7,4 +7,7 @@
  | 3차시 | 2025.05.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#3](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/8)|
  | 4차시 | 2025.05.11 |  스택, 자료구조  | [오큰수](https://www.acmicpc.net/problem/17298)|[#4](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/11)|
  | 5차시 | 2025.05.14 |  구현  | [주사위 쌓기](https://www.acmicpc.net/problem/2116)|[#5](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/14)|
+ | 6차시 | 2025.05.20 |  기하학  | [벽록의 가면](https://www.acmicpc.net/problem/31851)|[#6](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/15)|
+ | 7차시 | 2025.05.25 |  DFS  | [체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)|[#7](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/24)|
+ | 8차시 | 2025.05.28 |  구현  | [주사위 굴리기](https://www.acmicpc.net/problem/14499)|[#8](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/29)|
  ---
