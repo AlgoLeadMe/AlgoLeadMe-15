@@ -42,7 +42,3 @@ def solution(info, query):
         answer.append(len(scores) - idx)
 
     return answer
-        
-
-
-
