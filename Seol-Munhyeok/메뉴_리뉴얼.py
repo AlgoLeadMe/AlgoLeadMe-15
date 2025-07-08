@@ -24,6 +24,5 @@ def solution(orders, course):
             if not sorted_items or cnt <= 1 or cnt != max_value:
                 break
             answer.append(menu)
-            max_value = cnt
             
     return sorted(answer)
