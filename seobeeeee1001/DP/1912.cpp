@@ -16,5 +16,5 @@ int main() {
         d[i] = max(0,d[i-1]) + arr[i];    
     }
     cout<<*max_element(d+1,d+1+n);
-
+    
 }
