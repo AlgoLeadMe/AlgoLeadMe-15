@@ -10,3 +10,4 @@
 | 6차시 | 2025.05.26 |  구현  | [네트워크 연결](https://www.acmicpc.net/problem/1922)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/27|
 | 7차시 | 2025.05.29 |  구현  | [피보나치 수 5](https://www.acmicpc.net/problem/10870)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/30|
 | 8차시 | 2025.05.30 |  구현  | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/31|
+| 9차시 | 2025.06.01 |  구현  | [미로 탐색](https://www.acmicpc.net/problem/2178)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/32|
