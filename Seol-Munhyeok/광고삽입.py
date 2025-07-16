@@ -14,8 +14,6 @@ def solution(play_time, adv_time, logs):
     
     # 시작 지점 += 1, 끝 지점 -= 1
     for log in logs:
-        sh, sm, ss = map(int, log[:8].split(":"))
-        eh, em, es = map(int, log[9:].split(":"))
         start = time_to_sec(log[:8])
         end = time_to_sec(log[9:])
         timeline[start] += 1  # 시작 값 포함
