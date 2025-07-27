@@ -14,3 +14,4 @@
 | 10차시 | 2025.07.06 |  Floyd-Warshall Algorithm  | [저울](https://www.acmicpc.net/problem/10159)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/39|
 | 11차시 | 2025.07.16 |  DP  | [2xn 타일링](https://www.acmicpc.net/problem/11726)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/48|
 | 12차시 | 2025.07.19 |  재귀 DFS  | [유기농 배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/49|
+| 13차시 | 2025.07.23 |  구현  | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/51|
