@@ -14,3 +14,4 @@
  | 10차시 | 2025.07.05 |  구현, 애드 혹  | [힘 겨루기](https://www.acmicpc.net/problem/17251)|[#10](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/38)|
  | 11차시 | 2025.07.11 |  구현  | [되돌리기](https://www.acmicpc.net/problem/1360)|[#11](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/43)|
  | 12차시 | 2025.07.13 |  백트래킹  | [부분수열의 합](https://www.acmicpc.net/problem/1182)|[#10](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/45)|
+ | 13차시 | 2025.07.16 |  백트래킹  | [색종이 붙이기](https://www.acmicpc.net/problem/17136)|[#13](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/47)|
