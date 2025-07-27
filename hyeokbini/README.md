@@ -13,3 +13,4 @@
  | 9차시 | 2025.06.29 |  기하학  | [화살을 쏘자!](https://www.acmicpc.net/problem/20157)|[#9](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/36)|
  | 10차시 | 2025.07.05 |  구현, 애드 혹  | [힘 겨루기](https://www.acmicpc.net/problem/17251)|[#10](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/38)|
  | 11차시 | 2025.07.11 |  구현  | [되돌리기](https://www.acmicpc.net/problem/1360)|[#11](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/43)|
+ | 12차시 | 2025.07.13 |  백트래킹  | [부분수열의 합](https://www.acmicpc.net/problem/1182)|[#10](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/45)|
