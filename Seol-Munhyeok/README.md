@@ -2,5 +2,8 @@
 
 |  차시  |    날짜    | 문제유형  |                                                                     링크                                                                      |                        풀이                         |
 | :----: | :--------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| 1차시  | 2025.07.01 |    문자열, 구현     |                                  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/37 |
-| 2차시  | 2025.07.05 |    문자열, 해시맵, 이진탐색     |                                  [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/39 |
+| 9차시  | 2025.07.01 |    문자열, 구현     |                                  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/37 |
+| 10차시  | 2025.07.06 |    문자열, 해시맵, 이진탐색     |                                  [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/40 |
+| 11차시  | 2025.07.09 |    해시맵, 조합, 완전탐색 이진탐색     |                                  [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/41 |
+| 12차시  | 2025.07.13 |    다익스트라 알고리즘, 플로이드 워셜 알고리즘     |                                  [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/44 |
+| 13차시  | 2025.07.17 |    구현, 누적합, 슬라이딩 윈도우     |                                  [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/46 |

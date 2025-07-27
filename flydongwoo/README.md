@@ -12,3 +12,5 @@
 | 8차시 | 2025.05.30 |  구현  | [듣보잡](https://www.acmicpc.net/problem/1764)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/31|
 | 9차시 | 2025.06.01 |  BFS  | [미로 탐색](https://www.acmicpc.net/problem/2178)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/32|
 | 10차시 | 2025.07.06 |  Floyd-Warshall Algorithm  | [저울](https://www.acmicpc.net/problem/10159)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/39|
+| 11차시 | 2025.07.16 |  DP  | [2xn 타일링](https://www.acmicpc.net/problem/11726)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/48|
+| 12차시 | 2025.07.19 |  재귀 DFS  | [유기농 배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/49|
