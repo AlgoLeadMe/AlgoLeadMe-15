@@ -16,3 +16,4 @@
 | 12차시 | 2025.07.19 |  재귀 DFS  | [유기농 배추](https://www.acmicpc.net/problem/1012)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/49|
 | 13차시 | 2025.07.23 |  구현  | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/51|
 | 14차시 | 2025.07.26 |  Greedy Algorithm  | [회의실 배정](https://www.acmicpc.net/problem/1931)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/54|
+| 15차시 | 2025.07.27 |  DP  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/55|
