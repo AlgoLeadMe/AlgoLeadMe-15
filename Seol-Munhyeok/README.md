@@ -9,3 +9,4 @@
 | 13차시  | 2025.07.17 |    구현, 누적합, 슬라이딩 윈도우     |                                  [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)                                  | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/46 |
 | 14차시 | 2025.07.24 | 구현, BFS, DFS | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/52 |
 | 15차시 | 2025.07.25 | 문자열, 애드혹 | [회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/53 |
+| 16차시 | 2025.07.30 | 트리, 분할 정복, 재귀 | [트리의 순회](https://www.acmicpc.net/problem/2263) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/58 |
