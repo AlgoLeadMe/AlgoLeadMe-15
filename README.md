@@ -51,12 +51,14 @@
     <td align="center"><a href="https://github.com/flydongwoo"><img src="https://avatars.githubusercontent.com/u/163722347?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/mj010504"><img src="https://avatars.githubusercontent.com/u/68235719?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/seobeeeee1001"><img src="https://avatars.githubusercontent.com/u/110898877?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/Seol-Munhyeok"><img src="https://avatars.githubusercontent.com/u/150120907?v=4" width="100px;" alt=""/>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/hyeokbini" title="Code">hyeokbini</a></td>
     <td align="center"><a href="https://github.com/flydongwoo" title="Code">flydongwoo</a></td>
     <td align="center"><a href="https://github.com/mj010504" title="Code">mj010504</a></td>
     <td align="center"><a href="https://github.com/seobeeeee1001" title="Code">seobeeeee1001</a></td>
+    <td align="center"><a href="https://github.com/Seol-Munhyeok" title="Code">Seol-Munhyeok</a></td>
   </tr>
 </table>
 
@@ -64,7 +66,7 @@
 
 ## 🤝 규칙
 
-- 스터디를 시작한 날짜로 부터 **학기 중 4일에 1 문제, 방학 중 3일에 1문제**씩 제출.
+- 스터디를 시작한 날짜로 부터 **4일에 1문제**씩 제출.
 
   **스터디 시작 날짜 : 2025-04-29**
 
