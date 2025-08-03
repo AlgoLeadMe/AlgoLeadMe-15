@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\test.py","tests":[{"id":1753865190063,"input":"9\n8 4 9 2 5 1 6 3 7\n8 9 4 5 2 6 7 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\test.py","group":"local","local":true}
