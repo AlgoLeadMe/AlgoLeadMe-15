@@ -1,65 +1,63 @@
+# 참고한 코드 : https://developer-ellen.tistory.com/68
+import copy
+
+board = [[-1 for _ in range(4)] for _ in range(4)]
+
 # ↑, ↖, ←, ↙, ↓, ↘, →, ↗ (0~7)
 dy = [-1, -1, 0, 1, 1, 1, 0, -1]
 dx = [0, -1, -1, -1, 0, 1, 1, 1]
-fish_index = [0 for _ in range(17)]  # 물고기의 현재 좌표
-died = [False for _ in range(17)]  # 물고기가 상어에게 먹혔는지 여부
-temp = [list(map(int, input().split())) for _ in range(4)]
-fish = [[0 for _ in range(4)] for _ in range(4)]
-dir = [[0 for _ in range(4)] for _ in range(4)]
-SHARK = -1
 
-# 이거까지 현재 1시간 30분 사용
-
-# 물고기와 방향을 각 배열에 저장
+# 입력 처리
 for i in range(4):
-    for j in range(8):
-        if j % 2 == 0:
-            fish[i][j//2] = temp[i][j]
-            fish_index[temp[i][j]] = (i, j//2)
-        else:
-            dir[i][j//2] = temp[i][j] - 1
+    data = list(map(int, input().split()))
+    fish = []
+    for j in range(4):
+        # 물고기 번호, 방향(0-index)
+        fish.append([data[2*j], data[2*j+1]-1])
+    board[i] = fish
 
-# 상어가 (y, x)에서 dist 만큼 이동
-def move_shark(y, x, dist):
-    pass
+max_score = 0
 
-def swap_fish(num1, num2, y, x, ny, nx):
-    fish[y][x], fish[ny][nx] = fish[ny][nx], fish[y][x]
-    dir[y][x], dir[ny][nx] = dir[ny][nx], dir[y][x]
-    fish_index[num1], fish_index[num2] = fish_index[num2], fish_index[num1]
+def in_range(y, x):
+    return 0 <= y < 4 and 0 <= x < 4
 
-def is_valid(y, x):
-    return 0 <= y < 4 and 0 <= x < 4 and fish[y][x] != SHARK
+def dfs(sy, sx, score, board):
+    # (sy, sx)가 상어의 위치
+    global max_score
+    score += board[sy][sx][0]
+    max_score = max(max_score, score)
+    board[sy][sx][0] = 0  # 빈칸은 0으로 표현
 
-# 1번부터 차례대로 물고기 이동
-def move_fish():
+    # 물고기 움직임
     for f in range(1, 17):
-        if not died[f]:
-            y, x = fish_index[f]
-            cur_dir = dir[y][x]
-            for i in range(8):
-                final_dir = (cur_dir + i) % 8
-                ny, nx = y + dy[final_dir], x + dx[final_dir]
-                if is_valid(ny, nx):
-                    dir[y][x] = final_dir  # 현재 물고기 방향 바꾸기
-                    swap_fish(f, fish[ny][nx], y, x, ny, nx)
+        fy, fx = -1, -1
+        for y in range(4):
+            for x in range(4):
+                if board[y][x][0] == f:
+                    fy, fx = y, x   # 교환할 물고기의 좌표 저장
                     break
+        # 물고기가 없음
+        if fy == -1 and fx == -1:
+            continue
+        f_dir = board[fy][fx][1]
 
-# main
-died[fish[0][0]] = True
-fish[0][0] = SHARK
-move_fish()
+        for i in range(8):
+            nd = (f_dir + i) % 8
+            ny, nx = fy + dy[nd], fx + dx[nd]
+            # 범위 밖이거나, 상어가 있는 위치인 경우
+            if not in_range(ny, nx) or (ny == sy and nx == sx):
+                continue
+            board[fy][fx][1] = nd
+            board[fy][fx], board[ny][nx] = board[ny][nx], board[fy][fx]
+            break
+    
+    # 상어 먹음
+    s_dir = board[sy][sx][1]
+    for i in range(1, 5):
+        ny, nx = sy + dy[s_dir] * i, sx + dx[s_dir] * i
+        # 범위 안에 있고 물고기가 있는 위치일 때
+        if in_range(ny, nx) and board[ny][nx][0] > 0:
+            dfs(ny, nx, score, copy.deepcopy(board))  # board의 복사본을 넘겨야 함
 
-for i in range(4):
-    for j in range(4):
-        print(fish[i][j], end=' ')
-    print()
-print()
-for i in range(4):
-    for j in range(4):
-        print(dir[i][j]+1, end=' ')
-    print()
-print()
-print(fish_index)
-
-
+dfs(0, 0, 0, board)
+print(max_score)
