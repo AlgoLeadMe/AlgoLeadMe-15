@@ -17,3 +17,4 @@
 | 13차시 | 2025.07.23 |  구현  | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/51|
 | 14차시 | 2025.07.26 |  Greedy Algorithm  | [회의실 배정](https://www.acmicpc.net/problem/1931)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/54|
 | 15차시 | 2025.07.27 |  DP  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/55|
+| 16차시 | 2025.08.03 |  구현  | [자리배정](https://www.acmicpc.net/problem/10157)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/60|
