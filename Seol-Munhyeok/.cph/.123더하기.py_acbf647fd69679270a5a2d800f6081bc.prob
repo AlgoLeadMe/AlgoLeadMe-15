@@ -1,0 +1,1 @@
+{"name":"Local: 123더하기","url":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\123더하기.py","tests":[{"id":1753681329470,"input":"3\n4\n7\n10","output":"7\n44\n274"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\123더하기.py","group":"local","local":true}
