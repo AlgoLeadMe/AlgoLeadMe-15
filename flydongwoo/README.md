@@ -19,3 +19,4 @@
 | 15차시 | 2025.07.27 |  DP  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/55|
 | 16차시 | 2025.08.03 |  구현  | [자리배정](https://www.acmicpc.net/problem/10157)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/60|
 | 17차시 | 2025.08.06 |  DFS와 BFS  | [바이러스](https://www.acmicpc.net/problem/2606)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/63|
+| 18차시 | 2025.08.07 |  BFS  | [숨바꼭질](https://www.acmicpc.net/problem/1697)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/64|
