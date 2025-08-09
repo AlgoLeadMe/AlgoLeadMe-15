@@ -12,3 +12,4 @@
 | 16차시 | 2025.07.30 | 트리, 분할 정복, 재귀 | [트리의 순회](https://www.acmicpc.net/problem/2263) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/58 |
 | 17차시 | 2025.08.01 | 구현, 시뮬레이션, 백트래킹 | [청소년 상어](https://www.acmicpc.net/problem/19236) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/61 |
 | 18차시 | 2025.08.05 | 브루트포스, 애드 혹, 홀짝성 | [램프](https://www.acmicpc.net/problem/1034) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/62 |
+| 19차시 | 2025.08.10 | 구현, BFS | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/67 |
