@@ -18,3 +18,5 @@
  | 14차시 | 2025.07.22 |  백트래킹  | [숌 사각형](https://www.acmicpc.net/problem/1481)|[#14](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/50)|
  | 15차시 | 2025.07.22 |  그리디, 수학  | [세 수, 두 M](https://www.acmicpc.net/problem/2405)|[#15](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/56)|
  | 16차시 | 2025.07.29 |  구현, 재귀  | [ZOAC](https://www.acmicpc.net/problem/16719)|[#16](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/57)|
+ | 19차시 | 2025.08.10 |  브루트포스  | [리모컨](https://www.acmicpc.net/problem/1107)|[#19](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/68)|
+
