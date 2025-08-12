@@ -10,8 +10,6 @@ died = [False] * 17
 visited = [[False]*4 for _ in range(4)]
 max_total = 0
 
-# 이거까지 현재 2시간 30분 사용
-
 # 입력 처리
 temp = [list(map(int, input().split())) for _ in range(4)]
 fish = [[0]*4 for _ in range(4)]
@@ -29,7 +27,6 @@ for i in range(4):
 def in_range(y, x):
     return 0 <= y < 4 and 0 <= x < 4
     
-
 def dfs(fish, dir, fish_index, died, y, x, total):
     global max_total
     print("------")
@@ -89,7 +86,7 @@ def dfs(fish, dir, fish_index, died, y, x, total):
 
     # 상어 이동 dfs 수행
     moved = False
-    for dist in range(1, 4):
+    for dist in range(1, 5):
         ny, nx = y + dy[shark_dir] * dist, x + dx[shark_dir] * dist
         if not in_range(ny, nx):
             break
