@@ -10,3 +10,4 @@
  | 7차시 | 2025.05.20 |  분할정복  | [유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/28)|
  | 8차시 | 2025.06.15 |  DP  | [개근상](https://www.acmicpc.net/problem/1563)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/35)|
  | 17차시 | 2025.08.07 |  BFS  | [촌수 계산](https://www.acmicpc.net/problem/2644)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/65)|
+ | 18차시 | 2025.08.07 |  조합  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/69)|
