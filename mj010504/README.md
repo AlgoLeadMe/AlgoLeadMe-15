@@ -12,4 +12,5 @@
  | 17차시 | 2025.08.07 |  BFS  | [촌수 계산](https://www.acmicpc.net/problem/2644)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/65)|
  | 18차시 | 2025.08.07 |  조합  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/69)|
  | 19차시 | 2025.08.13 |  DP, 메모이제이션  | [완전 범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/70)|
+ | 20차시 | 2025.08.13 |  DFS + 메모이제이션 + 구현  | [주사위 고르](https://school.programmers.co.kr/learn/courses/30/lessons/2587)|(https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/74)|
 
