@@ -1,0 +1,1 @@
+{"name":"Local: 촌수dfs","url":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\촌수dfs.py","tests":[{"id":1754577110751,"input":"9\n7 3\n7\n1 2\n1 3\n2 7\n2 8\n2 9\n4 5\n4 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\촌수dfs.py","group":"local","local":true}

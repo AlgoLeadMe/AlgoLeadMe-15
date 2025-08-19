@@ -1,0 +1,1 @@
+{"name":"Local: 약속장소","url":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\약속장소.py","tests":[{"id":1754722561177,"input":"5 5\nSTORR\nSTARE\nSTORE\nSCORE\nSTONE","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\약속장소.py","group":"local","local":true}
