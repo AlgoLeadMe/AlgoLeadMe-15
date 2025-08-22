@@ -22,3 +22,4 @@
  | 18차시 | 2025.08.07 |  브루트포스  | [약속 장소](https://www.acmicpc.net/problem/25542)|[#18](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/66)|
  | 19차시 | 2025.08.10 |  브루트포스  | [리모컨](https://www.acmicpc.net/problem/1107)|[#19](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/68)|
  | 20차시 | 2025.08.14 |  완전탐색,DFS  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[#20](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/72)|
+ | 22차시 | 2025.08.22 |  그래프 탐색  | [차량 배치](https://www.acmicpc.net/problem/30206)|[#22](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/77)|
