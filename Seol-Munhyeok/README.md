@@ -14,3 +14,5 @@
 | 18차시 | 2025.08.05 | 브루트포스, 애드 혹, 홀짝성 | [램프](https://www.acmicpc.net/problem/1034) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/62 |
 | 19차시 | 2025.08.10 | 구현, BFS | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/67 |
 | 20차시 | 2025.08.14 | DP | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/73 |
+AlgoLeadMe/AlgoLeadMe-15/pull/67 |
+| 21차시 | 2025.08.18 | 시뮬레이션, 그리디 | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/75 |
