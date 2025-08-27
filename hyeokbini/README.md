@@ -23,3 +23,4 @@
  | 19차시 | 2025.08.10 |  브루트포스  | [리모컨](https://www.acmicpc.net/problem/1107)|[#19](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/68)|
  | 20차시 | 2025.08.14 |  완전탐색,DFS  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[#20](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/72)|
  | 21차시 | 2025.08.19 |  브루트포스  | [제곱수 찾기](https://www.acmicpc.net/problem/1025)|[#21](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/76)|
+ | 23차시 | 2025.08.27 |  이분 탐색  | [개똥벌레](https://www.acmicpc.net/problem/3020)|[#23](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/80)|
