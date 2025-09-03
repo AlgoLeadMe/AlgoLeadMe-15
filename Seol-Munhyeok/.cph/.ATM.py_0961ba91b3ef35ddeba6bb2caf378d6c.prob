@@ -1,0 +1,1 @@
+{"name":"Local: ATM","url":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\ATM.py","tests":[{"id":1756627725177,"input":"5\n3 1 4 3 2","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\AlgoLeadME-15\\AlgoLeadMe-15\\Seol-Munhyeok\\ATM.py","group":"local","local":true}
