@@ -1,4 +1,4 @@
-## ✏️ 기록   
+=## ✏️ 기록   
  
  | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
  |:----:|:---------:|:----:|:-----:|:----:|
@@ -21,4 +21,8 @@
 | 17차시 | 2025.08.06 |  DFS와 BFS  | [바이러스](https://www.acmicpc.net/problem/2606)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/63|
 | 18차시 | 2025.08.07 |  BFS  | [숨바꼭질](https://www.acmicpc.net/problem/1697)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/64|
 | 19차시 | 2025.08.14 |  Sliding Window  | [수열](https://www.acmicpc.net/problem/2559)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/71|
-
+| 20차시 | 2025.08.27 |  Greedy Algorithm  | [ATM](https://www.acmicpc.net/problem/11399)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/81|
+| 21차시 | 2025.08.28 |  BFS  | [토마토](https://www.acmicpc.net/problem/7576)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/82|
+| 22차시 | 2025.09.05 |  시뮬레이션  | [로봇 청소기](https://www.acmicpc.net/problem/14503)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/87|
+| 23차시 | 2025.09.06 |  시뮬레이션  | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/88|
+| 24차시 | 2025.09.07 |  BFS  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/89|
