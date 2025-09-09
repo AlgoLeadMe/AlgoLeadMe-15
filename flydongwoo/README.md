@@ -22,3 +22,4 @@
 | 18차시 | 2025.08.07 |  BFS  | [숨바꼭질](https://www.acmicpc.net/problem/1697)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/64|
 | 19차시 | 2025.08.14 |  Sliding Window  | [수열](https://www.acmicpc.net/problem/2559)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/71|
 | 20차시 | 2025.08.27 |  Greedy Algorithm  | [ATM](https://www.acmicpc.net/problem/2559)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/81|
+
