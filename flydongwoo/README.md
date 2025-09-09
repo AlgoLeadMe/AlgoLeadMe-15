@@ -23,3 +23,4 @@
 | 19차시 | 2025.08.14 |  Sliding Window  | [수열](https://www.acmicpc.net/problem/2559)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/71|
 | 20차시 | 2025.08.27 |  Greedy Algorithm  | [ATM](https://www.acmicpc.net/problem/11399)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/81|
 | 21차시 | 2025.08.28 |  BFS  | [토마토](https://www.acmicpc.net/problem/7576)|https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/82|
+
