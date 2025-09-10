@@ -24,3 +24,4 @@
  | 20차시 | 2025.08.14 |  완전탐색,DFS  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[#20](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/72)|
  | 21차시 | 2025.08.19 |  브루트포스  | [제곱수 찾기](https://www.acmicpc.net/problem/1025)|[#21](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/76)|
  | 22차시 | 2025.08.22 |  그래프 탐색  | [차량 배치](https://www.acmicpc.net/problem/30206)|[#22](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/77)|
+ | 25차시 | 2025.09.10 |  DP, 게임 이론  | [돌 게임 4](https://www.acmicpc.net/problem/9658)|[#22](https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/90)|
