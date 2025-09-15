@@ -16,3 +16,4 @@
 | 20차시 | 2025.08.14 | DP | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/73 |
 AlgoLeadMe/AlgoLeadMe-15/pull/67 |
 | 21차시 | 2025.08.18 | 시뮬레이션, 그리디 | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/75 |
+| 22차시 | 2025.08.23 | 그리디, 투 포인터 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/79 |
