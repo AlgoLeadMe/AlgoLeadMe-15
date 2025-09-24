@@ -20,3 +20,4 @@ AlgoLeadMe/AlgoLeadMe-15/pull/67 |
 | 23차시 | 2025.09.03 | 수학, 구현 | [책 페이지](https://www.acmicpc.net/problem/1019) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/84 |
 | 24차시 | 2025.09.03 | 구현 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/85 |
 | 25차시 | 2025.09.06 | 문자열, 구현 | [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/86 |
+| 26차시 | 2025.09.24 | 구현 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | https://github.com/AlgoLeadMe/AlgoLeadMe-15/pull/93 |
